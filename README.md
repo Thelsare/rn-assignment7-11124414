@@ -96,9 +96,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [React Navigation](https://reactnavigation.org/)
 - [Axios](https://github.com/axios/axios) for API requests
 
-## Contact
 
-For any inquiries, please contact us at [email@example.com](mailto:email@example.com).
 
 ![App Screenshot](path/to/screenshot1.png)
 ![App Screenshot](path/to/screenshot2.png)
