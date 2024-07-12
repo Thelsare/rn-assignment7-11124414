@@ -98,8 +98,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 
 
-![App Screenshot](path/to/screenshot1.png)
-![App Screenshot](path/to/screenshot2.png)
+![App Screenshot](/w.jpg)
+![App Screenshot](p/f.jpg)
 ```
 
 Replace placeholders like `https://github.com/YourUsername/open-fashion.git`, `email@example.com`, and `path/to/screenshot1.png` with the actual links and email address. Also, make sure to include actual screenshots of your app to provide a visual representation.
